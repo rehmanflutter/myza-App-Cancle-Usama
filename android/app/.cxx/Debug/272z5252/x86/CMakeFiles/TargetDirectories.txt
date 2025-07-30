@@ -1,0 +1,2 @@
+/Users/rehman/Downloads/BackUp Code/Dammy App/myza-thoughts-app-main/android/app/.cxx/Debug/272z5252/x86/CMakeFiles/edit_cache.dir
+/Users/rehman/Downloads/BackUp Code/Dammy App/myza-thoughts-app-main/android/app/.cxx/Debug/272z5252/x86/CMakeFiles/rebuild_cache.dir

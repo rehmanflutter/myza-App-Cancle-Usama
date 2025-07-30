@@ -1,0 +1,2 @@
+D:/myza-thoughts-app/android/app/.cxx/Debug/49234j5e/x86_64/CMakeFiles/edit_cache.dir
+D:/myza-thoughts-app/android/app/.cxx/Debug/49234j5e/x86_64/CMakeFiles/rebuild_cache.dir
